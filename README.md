@@ -1,2 +1,2 @@
 # JupyterNotebookAppDemo
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Carmenstein/JupyterNotebookAppDemo/HEAD?urlpath=%2Fvoila%2Frender%2Fguhj.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Carmenstein/JupyterNotebookAppDemo/HEAD)
